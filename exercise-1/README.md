@@ -13,3 +13,4 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 what I eat:
 1. milk
 2. toast
+3. cereal
